@@ -1,4 +1,4 @@
-package com.hsquaretech.common.helpers.db;
+package com.hsquaretech.common.helpers.android_sqlite_helper;
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.hsquaretech.common.helpers.db.sqLiteService.imbc_sqLiteService;
+import com.hsquaretech.common.helpers.android_sqlite_helper.sqLiteService.imbc_sqLiteService;
 
 public class sqLiteHelper extends SQLiteOpenHelper
 {

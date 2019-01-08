@@ -1,4 +1,4 @@
-package com.hsquaretech.common.helpers.db.sqLiteService;
+package com.hsquaretech.common.helpers.android_sqlite_helper.sqLiteService;
 
 import android.app.IntentService;
 import android.content.Intent;
