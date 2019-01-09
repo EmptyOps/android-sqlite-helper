@@ -12,4 +12,3 @@ Please follow the commons contributing standards
 ## <a href="rules"></a> Coding Rules
 
 Try to follow the same code style you see in the repository.
-
